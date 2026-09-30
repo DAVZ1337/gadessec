@@ -56,3 +56,5 @@ Bash
 proot-distro login gadessec
 🤝 Contribuciones
 Las contribuciones, informes de errores y sugerencias son totalmente bienvenidos. ¡Siéntete libre de abrir un pull request o reportar cualquier incidencia en el repositorio.
+
+![GadesSec OS Termux](https://github.com/user-attachments/assets/2236cc8a-e9e8-472c-925e-21b3043ef4cc)
