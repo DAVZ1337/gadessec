@@ -57,8 +57,4 @@ proot-distro login gadessec
 🤝 Contribuciones
 Las contribuciones, informes de errores y sugerencias son totalmente bienvenidos. ¡Siéntete libre de abrir un pull request o reportar cualquier incidencia en el repositorio.
 
-<div align="center">
-  <img src="gadessec-neofetch.jpg" alt="GadesSec Terminal Preview" width="600">
-  <p><em>Ejemplo de ejecución y Neofetch en GadesSec</em></p>
-</div>
 
